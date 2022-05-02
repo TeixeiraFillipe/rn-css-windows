@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.6 (Windows)
+ * Removing the 'dotall' flag from regular expressions due to a Windows issue
+
 ## Version 1.6
 
  * Creation of RemContext to control rem units value
